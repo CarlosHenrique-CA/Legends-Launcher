@@ -19,7 +19,7 @@ img {
     transform: translate(-50%);
     width: 200px;
     height: 220px;
-    transition: opacity .3s, top 1.5s;
+    transition: opacity .-0s, top 0s;
     opacity: 0;
 }
 
