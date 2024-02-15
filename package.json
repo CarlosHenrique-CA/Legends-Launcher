@@ -1,10 +1,10 @@
 {
-    "name": "Humble-Launcher",
-    "preductname": "Humble Launcher",
-    "version": "2.1.2",
-    "description": "launcher customizado Humble Pixelmon - Humble Studios 2023",
+    "name": "Legends-Launcher",
+    "preductname": "Legends Launcher",
+    "version": "1.0.0",
+    "description": "Launcher customizado Pixelmon Legends - Legends Pixelmon 2024",
     "main": "src/app.js",
-    "author": "Bigoras",
+    "author": "Maryto",
     "url": "http://launcher.humblepixelmon.com.br/selvaniahumble",
     "engines": {
         "node": "^18.x.x"
